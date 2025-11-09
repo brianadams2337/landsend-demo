@@ -68,6 +68,6 @@ export const shops: [ShopAndLocaleConfig, ...ShopAndLocaleConfig[]] = [
     currency: 'GBP',
     isDefault: false,
     translationFile: 'en_GB.json',
-    countryCode: 'UK',
+    countryCode: 'GB',
   }
 ]
