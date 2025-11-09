@@ -62,8 +62,8 @@ export const shops: [ShopAndLocaleConfig, ...ShopAndLocaleConfig[]] = [
     countryCode: 'AT',
   },
   {
-    locale: 'en-UK',
-    code: 'en-uk',
+    locale: 'en-GB',
+    code: 'en-gb',
     shopId: 1039,
     currency: 'GBP',
     isDefault: false,
